@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "MarineWiz's page"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "marinewiz"
 description              : "An amazing website."
 url                      : "https://crystalha87.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -289,4 +289,3 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-        
