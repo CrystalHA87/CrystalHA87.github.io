@@ -8,11 +8,11 @@ redirect_from:
 toc: true
 ---
 
-#설치 방법
+## 설치 방법
  - MarineWiz 설치파일, 필수 설치 디렉토리의 파일을 모두 다운받는다.
  - NDP472-DevPack-ENU.exe 를 설치한다.
  - setup.exe 를 실행한다.
 
-#환경 설정
+## 환경 설정
  - MSBuild를 기반으로 Build를 수행하여야 하기 때문에 MSBuild 경로를 설정해야 한다.
  - Main 화면의 상단 Menu Project > Option > Build Tab에 경로 설정한다.
