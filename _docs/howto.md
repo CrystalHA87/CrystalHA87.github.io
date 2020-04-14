@@ -49,6 +49,7 @@ toc: true
   6. 응용 프로그램 실행
       - 「프로젝트명.exe」을 더블클릭하여 실행시키면 응용프로그램의 동작을 확인할 수 있다.
       ![image](https://user-images.githubusercontent.com/45934727/77056981-9895cb80-6a16-11ea-9e17-efd552dc51e2.png)
+      
 ### Library 기반 SW개발
   - 프로젝트 생성
   - 응용 프로그램 구성
