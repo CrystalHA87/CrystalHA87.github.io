@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## MarineWiz Release
-  - 1.0
+  - [1.0](https://github.com/MarineWiz/MarineWiz-Release)
 
   - 2.0
 

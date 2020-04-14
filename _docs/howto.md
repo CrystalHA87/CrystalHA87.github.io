@@ -14,7 +14,7 @@ toc: true
     - 프로젝트의 이름과 저장 위치(기본 : C:\Users\Name\Desktop)를 설정한 후 OK 버튼을 클릭한다. 저장 위치를 변경할 경우 Find버튼을 클릭한다.
     - 프로젝트 생성 화면에서 설정한 값(프로젝트 이름, 저장 위치)을 확인한다.
     - 프로젝트에서 제작하려는 응용프로그램 메인화면의 너비와 높이를 설정한 후 OK버튼을 클릭하여 프로젝트 정보를 저장한다. CANCEL 클릭하면 설정한 너비와 높이를 무시하고 기본 크기(1000 * 60)로 프로젝트 정보가 저장된다.
-
+file:///C:/Users/user/Documents/GitHub/CrystalHA87.github.io/assets/images/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%83%9D%EC%84%B1%ED%99%94%EB%A9%B4.png?time=1586847409621
   - 응용 프로그램 구성
 
   - 데이터 바인딩
