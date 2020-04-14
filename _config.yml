@@ -266,10 +266,10 @@ compress_html:
     envs: development
 
 # Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  docs:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -293,9 +293,8 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
       sidebar:
         nav: "docs"
-        
