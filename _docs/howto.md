@@ -20,16 +20,21 @@ toc: true
   2. 응용 프로그램 구성
       - 프로젝트 작업 화면에서 컴포넌트 목록창의 컴포넌트를 Drag & Drop하여 응용프로그램의 GUI를 구성한다.
       - 응용프로그램의 GUI를 구성하는 컴포넌트를 선택하여 속성 값을 설정한다.
+      ![image](https://user-images.githubusercontent.com/45934727/77055672-a9454200-6a14-11ea-88eb-19e05e1f0976.png)
   3. 데이터 바인딩
       - 메뉴바에서 「File > Add Library(DLL) Files」를 클릭해서 프로젝트에 필요한 DLL을 Import한다. Import된 DLL은 솔루션 탐색기의 package폴더에 저장된다.
+      ![image](https://user-images.githubusercontent.com/45934727/77056032-34263c80-6a15-11ea-9bba-a1233b191798.png)
       - 데이터를 바인딩하기 위한 컴포넌트를 선택한 후 오른쪽 마우스 버튼을 클릭하여 「Attached Data From...」을 클릭한다.
+      ![image](https://user-images.githubusercontent.com/45934727/77056186-6fc10680-6a15-11ea-8f49-90ffa1928e60.png)
       - DLL을 선택한다.
       - 내부 함수를 선택한다. 『class DatabaseAccessManager > List GetDataFrom()』 선택
       - 「Next」 버튼을 클릭한다.
+      ![image](https://user-images.githubusercontent.com/45934727/77056309-954e1000-6a15-11ea-8f85-7208fe3c8c97.png)
       - 데이터 바인딩 대상 컴포넌트, 선택한 DLL 파일, 내부 함수를 확인한다.
       - 바인딩 데이터의 갱신 주기를 설정한다.
       - 차트 컴포넌트의 데이터 범위를 설정한다.
       - 「Finish」버튼을 클릭한다.
+      ![image](https://user-images.githubusercontent.com/45934727/77056440-be6ea080-6a15-11ea-9187-7e3a48ec34bf.png)
   4. 저장
       - 메뉴바에서 「File > Save」을 클릭한다.
       - 메뉴바에서 「Build > Build(B)」를 클릭한다.
