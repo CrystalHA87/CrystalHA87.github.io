@@ -14,9 +14,8 @@ docs:
   - title: "MarineWiz®"
     children:
       - title: "개요"
-        url: /docs/intro/
+        url: https://crystalha87.github.io/docs/intro/
       - title: "설치 절차"
-        url: /docs/install/
+        url: https://crystalha87.github.io/docs/install/
       - title: "사용 방법"
-        url: /docs/howto/
-  
+        url: https://crystalha87.github.io/docs/howto/
