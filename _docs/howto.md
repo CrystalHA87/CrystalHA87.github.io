@@ -40,13 +40,15 @@ toc: true
       - 메뉴바에서 「Build > Build(B)」를 클릭한다.
       - Console화면이 생성되고, Build 정보가 출력된다.
       - Build가 완료되면 「프로젝트 저장위치\Bin\Debug」폴더에 exe 파일이 생성된다.
+      ![image](https://user-images.githubusercontent.com/45934727/77057819-dfd08c00-6a17-11ea-86b5-9f278f5c9969.png)
   5. Build
       - 메뉴바에서 「Build > Build(B)」를 클릭한다.
       - Console화면이 생성되고, Build 정보가 출력된다.
       - Build가 완료되면 「프로젝트 저장위치\Bin\Debug」폴더에 exe 파일이 생성된다.
+      ![image](https://user-images.githubusercontent.com/45934727/77056699-245b2800-6a16-11ea-9154-4ce05f777bd8.png)
   6. 응용 프로그램 실행
       - 「프로젝트명.exe」을 더블클릭하여 실행시키면 응용프로그램의 동작을 확인할 수 있다.
-
+      ![image](https://user-images.githubusercontent.com/45934727/77056981-9895cb80-6a16-11ea-9e17-efd552dc51e2.png)
 ### Library 기반 SW개발
   - 프로젝트 생성
   - 응용 프로그램 구성
