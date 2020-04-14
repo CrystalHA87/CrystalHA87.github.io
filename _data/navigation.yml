@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+docs:
+  - title: "MarineWiz®"
+    children:
+      - title: "개요"
+        url: /docs/intro/
+      - title: "설치 절차"
+        url: /docs/install/
+      - title: "사용 방법"
+        url: /docs/howto/
+  
