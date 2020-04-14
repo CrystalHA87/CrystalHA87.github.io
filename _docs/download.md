@@ -12,14 +12,11 @@ toc: true
 
 #### MarineWiz Release
   - [1.0](https://github.com/MarineWiz/MarineWiz-Release)
-
   - 2.0
 
 #### [MarineWiz Applications](https://github.com/MarineWiz/MarineWiz-Applications)
   - [Conning](https://github.com/MarineWiz/MarineWiz-Applications/tree/master/Conning)
-
   - [Map](https://github.com/MarineWiz/MarineWiz-Applications/tree/master/Map)
-
   - [Gantt](https://github.com/MarineWiz/MarineWiz-Applications/tree/master/Gantt)
 
 #### [MarineWiz Library](https://github.com/MarineWiz/MarineWiz-Libraries)
