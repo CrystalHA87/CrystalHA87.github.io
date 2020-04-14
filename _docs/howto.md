@@ -8,7 +8,7 @@ redirect_from:
 toc: true
 ---
 
-## 마린위즈 기반 SW개발
+## MarineWiz 기반 SW개발
 
     - 프로젝트 생성
       - 프로젝트 생성 화면에서 제작하고자 하는 응용프로그램의 템플릿을 선택한다.프로젝트 생성 화면은 MarineWiz를 실행하거나, 메뉴바에서 「File > New Project」를 선택했을 때 출력된다.
