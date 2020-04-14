@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## 공지 사항
-  - MarineWiz 1.0은 github에 공개되어 있습니다.
+  - MarineWiz 1.0은 MarineWiz github에 공개되어 있습니다.
 
 ## 일정
   - MarineWiz 2.0은 2020년 6월에 공개 예정입니다.
