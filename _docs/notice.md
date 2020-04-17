@@ -8,11 +8,11 @@ redirect_from:
 toc: true
 ---
 
-### 공지 사항
+#### 공지 사항
   - MarineWiz 1.0은 MarineWiz github에 공개되어 있습니다.
 
-### 일정
+#### 일정
   - MarineWiz 2.0은 2020년 6월에 공개 예정입니다.
 
-### 문의
+#### 문의
   - MarineWiz 관련 문의 사항은 marinewiz.sdk@gmail.com 로.

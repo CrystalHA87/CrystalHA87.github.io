@@ -7,7 +7,7 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
-### MarineWiz 기반 SW개발
+#### MarineWiz 기반 SW개발
   1. 프로젝트 생성
       - 프로젝트 생성 화면에서 제작하고자 하는 응용프로그램의 템플릿을 선택한다.프로젝트 생성 화면은 MarineWiz를 실행하거나, 메뉴바에서 「File > New Project」를 선택했을 때 출력된다.
       - 프로젝트의 이름과 저장 위치(기본 : C:\Users\Name\Desktop)를 설정한 후 OK 버튼을 클릭한다. 저장 위치를 변경할 경우 Find버튼을 클릭한다.
@@ -50,7 +50,7 @@ toc: true
       - 「프로젝트명.exe」을 더블클릭하여 실행시키면 응용프로그램의 동작을 확인할 수 있다.
       ![image](https://user-images.githubusercontent.com/45934727/77056981-9895cb80-6a16-11ea-9e17-efd552dc51e2.png)
 
-### Library 기반 SW개발
+#### Library 기반 SW개발
   - 프로젝트 생성
   - 응용 프로그램 구성
   - 데이터 바인딩
