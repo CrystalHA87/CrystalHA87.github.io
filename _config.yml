@@ -257,7 +257,9 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+header :
+  image: /assets/images/main_top.JPG
+  
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
