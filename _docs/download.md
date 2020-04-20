@@ -8,7 +8,7 @@ redirect_from:
 toc: true
 ---
 ### MarineWiz Download
-#### MarineWiz Release
+#### [MarineWiz Release](https://github.com/MarineWiz/MarineWiz-Release)
   - [1.0](https://github.com/MarineWiz/MarineWiz-Release)
   - 2.0
 
