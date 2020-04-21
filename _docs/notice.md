@@ -15,4 +15,5 @@ toc: true
   - MarineWiz 2.0은 2020년 6월에 공개 예정입니다.
 
 #### 문의
-  - MarineWiz 관련 문의 사항은 [marinewiz.sdk@gmail.com](mailto:marinewiz.sdk@gmail.com) 로.
+  - MarineWiz 관련 문의 사항은 ![OIPAB1QXT3U](https://user-images.githubusercontent.com/45934727/79830939-6eeb0e00-83e1-11ea-9426-791790bc1e90.jpg)[marinewiz.sdk@gmail.com](mailto:marinewiz.sdk@gmail.com) 로.
+![correo-negro-300x300](https://user-images.githubusercontent.com/45934727/79831018-92ae5400-83e1-11ea-97e5-3e9b1e4c7509.png)
